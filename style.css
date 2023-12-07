@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    text-align: center;
+    background-color: aqua;
+    padding: 20px;
+}
+.space{
+    margin: 40%;
+    margin-top: 1%;
+}
+.cal{
+    margin: 3px;
+    padding: 2%;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: fit-content;
+}
+input{
+    margin: 5px;
+    padding: 6%;
+    border-radius: 5px; 
+    background-color: rgb(59, 216, 12); 
+    /* font-size: 15px;   */
+}
+input:hover{
+    background-color: rgba(51, 10, 233, 0.849);
+}
+body{
+    background-color: rgb(235, 237, 248);
+}
+
